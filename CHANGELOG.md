@@ -27,4 +27,6 @@
 
 ### Know Bugs
 
+-   Cards in hand appear under notch of iPhone X/XS.
+-   Scale of UI elements is only correct on iPhone X/XS.
 -   AR doesn't work in Android version.
