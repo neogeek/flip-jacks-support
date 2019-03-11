@@ -1,5 +1,30 @@
 # Changelog
 
+## 1.4 (4)
+
+### Features
+
+-   Added new card design to improve visibility while playing in AR.
+-   Improved flicking of cards.
+
+### Bug Fixes
+
+-   Fixed issues with UI scaling on mobile devices smaller than the iPhone X.
+-   Fixed an issue where the table would appear to be glitching when placing in AR.
+-   Fixed an issue where the cards would be flicked really far away if let go at the top of the screen.
+-   Fixed an issue where letting go of a card under another card would cause the card to get stuck.
+-   Fixed issue where the game would not end if the deck was empty.
+
+### Know Bugs
+
+-   Cards appear cut off on some mobile devices while playing in AR.
+-   Pause button is hard to hit.
+-   Some games complete with "No Winner" or "Playing/Computer wins with Nothing".
+-   AR works on some Android devices. Comfirmed working on Nokia 7.1, broken on Google Pixel 2
+-   Sometimes a card will be missing from the river.
+-   Sometimes a card will not be collected from the table when another game starts.
+-   Sometimes the timer will go missing. Full restart required to fix.
+
 ## 1.4 (2)
 
 ### Bug Fixes
