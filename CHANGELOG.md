@@ -20,7 +20,7 @@
 -   Cards appear cut off on some mobile devices while playing in AR.
 -   Pause button is hard to hit.
 -   Some games complete with "No Winner" or "Playing/Computer wins with Nothing".
--   AR works on some Android devices. Comfirmed working on Nokia 7.1, broken on Google Pixel 2
+-   AR works on some Android devices. Comfirmed working on Nokia 7.1, broken on Google Pixel 2.
 -   Sometimes a card will be missing from the river.
 -   Sometimes a card will not be collected from the table when another game starts.
 -   Sometimes the timer will go missing. Full restart required to fix.
