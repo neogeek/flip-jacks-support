@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4 (5)
+
+### Features
+
+-   Added anonymous analytics for debugging hand rankings.
+-   Updated packages.
+
 ## 1.4 (4)
 
 ### Features
