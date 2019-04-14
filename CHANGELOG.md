@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4 (6)
+
+### Features
+
+-   Improved anonymous analytics for debugging hand rankings. [Example of collected data.](https://gist.github.com/neogeek/a4dc6feb794802d41166317c7eae27ae)
+
 ## 1.4 (5)
 
 ### Features
