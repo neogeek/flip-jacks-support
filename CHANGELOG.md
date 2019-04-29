@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.4 (7)
+
+### Features
+
+-   Updated to Unity 2019.1
+
+### Bug Fixes
+
+-   Updated AR Foundation Components to fix a bug introduced in a previous version.
+
 ## 1.4 (6)
 
 ### Features
