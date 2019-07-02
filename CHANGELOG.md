@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4 (8)
+
+### Features
+
+-   Updated AR Foundation Components package.
+-   Updated Unity AR Foundation and ARKit packages.
+
 ## 1.4 (7)
 
 ### Features
