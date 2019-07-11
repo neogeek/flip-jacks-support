@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4 (9)
+
+### Features
+
+-   Added new options scene with persistent data.
+-   Updated CandyCoded and Unity iOS Bridge packages.
+
 ## 1.4 (8)
 
 ### Features
