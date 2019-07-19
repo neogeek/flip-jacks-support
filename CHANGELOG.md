@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4 (10)
+
+### Features
+
+- Added "Return to title" button on game end and pause screen.
+- Added close button to options screen.
+- Improved game state management behind the scenes by adding finite state machines to scripts.
+
 ## 1.4 (9)
 
 ### Features
